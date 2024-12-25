@@ -161,14 +161,6 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📚 Documentation
-
-Detailed documentation is available in the following sections:
-
-- [Authentication Guide](docs/authentication.md)
-- [Database Operations](docs/database.md)
-- [API Documentation](docs/api.md)
-- [Deployment Guide](docs/deployment.md)
 
 ## 🛟 Email
 
