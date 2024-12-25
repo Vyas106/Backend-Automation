@@ -170,15 +170,11 @@ Detailed documentation is available in the following sections:
 - [API Documentation](docs/api.md)
 - [Deployment Guide](docs/deployment.md)
 
-## 🛟 Support
+## 🛟 Email
 
-- 📧 Email: support@example.com
-- 💬 Discord: [Join our server](https://discord.gg/your-server)
-- 📝 Issues: [GitHub Issues](https://github.com/your-username/backend-automation/issues)
+- 📧 Email: vyasvishal106@gmail.com
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -186,7 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Star ⭐ this repository if you find it helpful!
 
-[Report Bug](https://github.com/your-username/backend-automation/issues) •
-[Request Feature](https://github.com/your-username/backend-automation/issues)
+[Report Bug]([https://github.com/your-username/backend-automation/issues](https://github.com/your-username/backend-automation/issues)) •
+[Request Feature]([https://github.com/your-username/backend-automation/issues](https://github.com/your-username/backend-automation/issues))
 
 </div>
